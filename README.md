@@ -1,3 +1,7 @@
+## NOTE: REPO ARCHIVED 
+Since the University of Michigan has ended their partnership with OneTrust, this project no longer in development. Cookie Banner implementation details can be found at the OVPC Digital team's [instructions on cookie disclosures](https://vpcomm.umich.edu/resources/cookie-disclosure/). For questions regarding the privacy banner, email the OVPC Digital Strategy team at umdigital@umich.edu.
+
+
 # react-ga-onetrust-consent
 
 React tooling that enables Umich consent banner integrated with Google Analytics signals. Initially built to support analytics-enabled University of Michigan Teaching & Learning applications, this logic using Google Analytics tracking as well as consent approval/denial to be properly standardized; We will aim to iterate on this project such that it could be shared with other Umich web apps that utilize React and Google Analytics. 
